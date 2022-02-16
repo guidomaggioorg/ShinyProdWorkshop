@@ -1,4 +1,4 @@
-# ShinyProdWorkshop 0.0.1.9000
+# ShinyProdWorkshop 0.1.0
 
 * Duplicate plot with eruptions
 
