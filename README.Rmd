@@ -16,6 +16,7 @@ knitr::opts_chunk$set(
 # ShinyProdWorkshop
 
 <!-- badges: start -->
+[![CI-CD](https://github.com/guidomaggioorg/ShinyProdWorkshop/workflows/CI-CD/badge.svg)](https://github.com/guidomaggioorg/ShinyProdWorkshop/actions)
 <!-- badges: end -->
 
 The goal of ShinyProdWorkshop is to ...
