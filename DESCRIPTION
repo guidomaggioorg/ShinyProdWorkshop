@@ -1,6 +1,6 @@
 Package: ShinyProdWorkshop
 Title: Shiny4 Demo Package
-Version: 0.1.0
+Version: 0.1.0.9000
 Authors@R: person('Guido', 'Maggio', email = 'guido.maggio@mirai-solutions.com', role = c('cre', 'aut'))
 Description: Shiny4 Demo package showing CI-CD and ShinyApps.io deployment
 License: MIT + file LICENSE
