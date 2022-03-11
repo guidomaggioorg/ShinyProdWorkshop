@@ -1,3 +1,7 @@
+# ShinyProdWorkshop 0.1.1
+
+* correction title graphs
+
 # ShinyProdWorkshop 0.1.0
 
 * Duplicate plot with eruptions
