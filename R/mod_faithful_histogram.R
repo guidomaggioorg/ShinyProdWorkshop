@@ -47,7 +47,7 @@ mod_faithful_histogram_server <- function(id, variable){
     
     output$distPlot <- renderPlot({
       # draw the histogram with the specified number of bins
-      plot_hist(x = x, breaks = bins(), freq = !input$density)
+      plot_hist(x = x, breaks = bins(), freq = !input$density, var = variable)
     })
   })
 }
