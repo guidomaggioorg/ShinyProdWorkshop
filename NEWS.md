@@ -1,4 +1,6 @@
-# ShinyProdWorkshop (development version)
+# ShinyProdWorkshop 0.1.1
+
+* correction title graphs
 
 # ShinyProdWorkshop 0.1.0
 
